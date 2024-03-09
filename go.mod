@@ -1,3 +1,3 @@
-module keylogger
+module mkeylogger
 
 go 1.14
